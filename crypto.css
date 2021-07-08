@@ -1,0 +1,19 @@
+.container {
+    /* border: 2px solid red; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+canvas {
+    /* border: 2px solid gray; */
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#chartTitle {
+    /* border: 5px solid green; */
+    align-self: center;
+    font-size: 50px;
+    font-weight: 300;
+    color: gray;
+}

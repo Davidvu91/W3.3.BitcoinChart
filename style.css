@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+};
+.navbar { 
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#title {
+    text-align: center;
+    font-size: 60px;
+    color: blue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.container {
+    background-color: bisque;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 40px;
+    padding-bottom: 32px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+};
+
